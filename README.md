@@ -19,7 +19,7 @@ Everything I build, I use daily first.
 
 ## Findig — inventory & profit software for Etsy sellers
 
-<a href="https://findig.app"><img src="assets/findig-orders.jpg" alt="The Findig orders page: open Etsy orders as cards with ship-by date, items, price and profit after fees" width="100%"></a>
+<a href="https://findig.app"><img src="assets/findig-orders.png" alt="The Findig orders page: active Etsy orders on a board from Open to Ready to Ship, each card with ship-by date, items, price and profit after fees" width="100%"></a>
 
 I ran an Etsy shop, got overwhelmed, and built the tool I wished existed. Findig syncs Etsy
 orders and listings on its own, tracks every variation down to the material, warns before
