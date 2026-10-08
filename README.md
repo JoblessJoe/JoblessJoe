@@ -34,12 +34,12 @@ stock runs out, and shows the profit that's actually left after fees.
 Plugins for **Claude Code** and **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness)** (dsh), built for my own
 local-LLM setup (Ollama on a Tesla P40). All MIT, zero runtime dependencies.
 
-| Project | What it does | |
-|---|---|---|
-| **[local-llm-worker](https://github.com/JoblessJoe/local-llm-worker)** <br><sub>Claude Code plugin · MCP server</sub> | Hands the bulk reading — test logs, big files, web pages — to your local LLM, so Claude only gets the answer. ~19,100 tokens read locally, ~130 sent to Claude. | [![npm](https://img.shields.io/npm/dw/local-llm-worker?label=npm&color=38cabb)](https://www.npmjs.com/package/local-llm-worker) |
-| **[smart-compaction](https://github.com/JoblessJoe/smart-compaction)** <br><sub>dsh plugin</sub> | Lets the model compact its own context at a safe point, instead of being cut off mid-task. | [![npm](https://img.shields.io/npm/dw/smart-compaction?label=npm&color=38cabb)](https://www.npmjs.com/package/smart-compaction) |
-| **[dsh-vitals](https://github.com/JoblessJoe/dsh-vitals)** <br><sub>dsh plugin</sub> | Live CPU, memory, temperature and GPU load, btop-style, inside the dsh web UI. | [![npm](https://img.shields.io/npm/dw/dsh-vitals?label=npm&color=38cabb)](https://www.npmjs.com/package/dsh-vitals) |
-| **[kitchenowl-extension](https://github.com/JoblessJoe/kitchenowl-extension)** <br><sub>Firefox add-on</sub> | One click saves the recipe you're looking at into your self-hosted KitchenOwl. | [![Firefox](https://img.shields.io/badge/Firefox-add--on-ff7139)](https://addons.mozilla.org/firefox/addon/kitchenowl-unofficial/) |
+| Project | What it does |
+|---|---|
+| **[local&#8209;llm&#8209;worker](https://github.com/JoblessJoe/local-llm-worker)** <br><sub>Claude Code plugin · MCP server</sub><br>[![npm](https://img.shields.io/npm/dw/local-llm-worker?label=npm&color=38cabb)](https://www.npmjs.com/package/local-llm-worker) | Hands the bulk reading — test logs, big files, web pages — to your local LLM, so Claude only gets the answer. ~19,100 tokens read locally, ~130 sent to Claude. |
+| **[smart&#8209;compaction](https://github.com/JoblessJoe/smart-compaction)** <br><sub>dsh plugin</sub><br>[![npm](https://img.shields.io/npm/dw/smart-compaction?label=npm&color=38cabb)](https://www.npmjs.com/package/smart-compaction) | Lets the model compact its own context at a safe point, instead of being cut off mid-task. |
+| **[dsh&#8209;vitals](https://github.com/JoblessJoe/dsh-vitals)** <br><sub>dsh plugin</sub><br>[![npm](https://img.shields.io/npm/dw/dsh-vitals?label=npm&color=38cabb)](https://www.npmjs.com/package/dsh-vitals) | Live CPU, memory, temperature and GPU load, btop-style, inside the dsh web UI. |
+| **[kitchenowl&#8209;extension](https://github.com/JoblessJoe/kitchenowl-extension)** <br><sub>Firefox add-on</sub><br>[![Firefox](https://img.shields.io/badge/Firefox-add--on-ff7139)](https://addons.mozilla.org/firefox/addon/kitchenowl-unofficial/) | One click saves the recipe you're looking at into your self-hosted KitchenOwl. |
 
 <sub>Listed on [awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) and the [official MCP Registry](https://registry.modelcontextprotocol.io). Project pages: [joblessjoe.com/software](https://joblessjoe.com/software)</sub>
 
