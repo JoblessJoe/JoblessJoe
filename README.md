@@ -1,8 +1,3 @@
-```
-hello
-world
-```
-
 Johannes Tebbert · Freiburg — small software and handmade things.
 **[joblessjoe.com](https://joblessjoe.com)**
 
